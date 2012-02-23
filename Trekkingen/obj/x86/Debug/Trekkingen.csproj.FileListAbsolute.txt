@@ -1,0 +1,9 @@
+E:\Fontys Programmeer Projecten\Trekkingen\Trekkingen\bin\Debug\Trekkingen.exe
+E:\Fontys Programmeer Projecten\Trekkingen\Trekkingen\bin\Debug\Trekkingen.pdb
+E:\Fontys Programmeer Projecten\Trekkingen\Trekkingen\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Fontys Programmeer Projecten\Trekkingen\Trekkingen\obj\x86\Debug\Trekkingen.Form1.resources
+E:\Fontys Programmeer Projecten\Trekkingen\Trekkingen\obj\x86\Debug\Trekkingen.Properties.Resources.resources
+E:\Fontys Programmeer Projecten\Trekkingen\Trekkingen\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Fontys Programmeer Projecten\Trekkingen\Trekkingen\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Fontys Programmeer Projecten\Trekkingen\Trekkingen\obj\x86\Debug\Trekkingen.exe
+E:\Fontys Programmeer Projecten\Trekkingen\Trekkingen\obj\x86\Debug\Trekkingen.pdb
